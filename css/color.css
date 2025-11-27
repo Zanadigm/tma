@@ -1,0 +1,73 @@
+.carousel-style-one.owl-theme .owl-controls .owl-nav div:hover, .button-green:hover, .account-dropdown a:hover, .search-form button[type="submit"], .mean-container .mean-nav ul li a:hover, .mean-container a.meanmenu-reveal, .single-product-text h4 a:hover, .subscribe-form > button:hover, .newsletter-two .subscribe-form > button:hover, .pagination-content.number .pagination li a, .single-teacher-text > h3 a:hover, .author-info > h4 a:hover, span.reply a, .sidebar-widget .single-teacher-text > h3 a:hover, .breadcrumb-bar a:hover, .recent-text > h4 a:hover, .related-tag .tags li a:hover, .link-social > a:hover, .shortcode-area i, .shortcode-area h3, .text-green, .header-top span.text-green, .footer-widget-list li a:hover, .footer-container .social-links-three > a:hover  {
+    color: #86bc42;
+}
+
+.slick-next:hover:before, .slick-prev:hover:before{
+    color:#151B54
+}
+
+.mainmenu ul#nav > li:hover > a, .mainmenu ul#nav li ul.sub-menu > li:hover > a, .mainmenu ul#nav li ul.sub-menu li ul.inside-menu > li > a:hover{
+    color:#e6002d;
+}
+.footer-list a:hover, a:hover {
+    color: #FFFF00;
+}
+.newsletter-area:before,  .search-menu, .button-green, .about-area .button-default, .single-item .button-default, .button-large.button-default, .single-latest-item .button-default, .single-product-text .button-default, .single-event-item .button-default, .subscribe-form > button, .newsletter-two, .pagination-content.number .pagination li a:hover, .pagination-content.number .pagination li.current a, .pagination-content.number .pagination li:first-child a, .pagination-content.number .pagination li:last-child a, .product-details-content .button-default, .product-details-content .social-links a:hover, .duration-title, h4.title:after, .tution-fee, .single-sidebar-widget .social-links a:hover, .single-sidebar-widget .tags li a:hover, .pagination-content .pagination, .news-details-content .social-links a:hover, .contact-form-area .button-default, .skill-bar-item .progress-bar, .bg-green, .bg-blue:hover, .preview-2 .nivo-directionNav a.nivo-prevNav:hover::before, .preview-2 .nivo-directionNav a.nivo-nextNav:hover::before, .slider-three .preview-2 .nivo-controlNav a, .footer-widget-area.footer-widget-four  {
+    background: #2d3e50;
+}
+
+.mainmenu ul#nav > li > a:after, .mainmenu ul#nav.menu-white > li > a:after{
+    background: #e6002d;
+}
+
+.social-icons > a:hover{
+    background: #FFFF00;
+}
+
+#scrollUp {
+    background:#151B54
+}
+
+.button-default:hover{
+    background:#151B54
+}
+
+.footer-area {
+    background: #e6002d;
+}
+
+.about-area:before {
+    background: #151B54;
+}
+#particles-js, #particles-js.bg-color-1 {
+    background-color: #86BC42;
+}
+.search-form, .single-item, .single-latest-text, .single-product-text, .single-event-text, .subscribe-form > button, .subscribe-form > button:hover, .pagination-content.number .pagination li a, .subscribe-form > button, .subscribe-form > button:hover, .pagination-content.number .pagination li a, .pagination-content.number .pagination li a:hover, .pagination-content.number .pagination li.current a, .product-details-content .social-links a:hover, .single-teacher-text, .single-course-details, .course-duration .text, .tutor-image > img, .single-sidebar-widget .social-links a:hover, .single-sidebar-widget .tags li a:hover, .single-sidebar-widget .single-item, .event-details-content .single-event-item, .recent-content-item > a, .quote-section, .news-details-content .social-links a:hover, .shortcode-area i, .shortcode-area h3, .border-green, .slider-three .nivo-controlNav a.active:before, .slider-three .nivo-controlNav a:hover:before {
+  border-color: #151B54 ;
+}
+
+.about-area:after { 
+    border-color: rgba(0, 0, 0, 0) #86bc42 #86bc42 rgba(0, 0, 0, 0);
+}
+.about-area:after, .newsletter-area:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #86bc42 #86bc42;
+}
+/* .slider-area::after, .overlay-light-fullwidth::after {
+    background: rgba(134, 188, 66, 0.6) none repeat scroll 0 0;
+} */
+.overlay-light-2-fullwidth:after, .semi-transparent  {
+    background: rgba(134, 188, 66, 0.4) none repeat scroll 0 0;
+}
+.header-logo-menu.stick.semi-transparent, .gallery-img, .gallery-img .hover-effect  {
+    background: #151B54 none repeat scroll 0 0;
+}
+.footer-img a:before {
+    background: rgba(134, 188, 66, 0.9) none repeat scroll 0 0;
+}
+.single-teacher-image > a:after {
+    background: rgba(134, 188, 66, 0.8) none repeat scroll 0 0;
+}
+.social-links > a:hover {
+    background: #7a9757 none repeat scroll 0 0;
+    border-color: #7a9757;
+}
