@@ -192,6 +192,42 @@ $('.popup-image').magnificPopup({
 $('.popup-youtube').magnificPopup({
     type: 'iframe'
 });
+
+/*------------------------------------
+	School Tour Gallery
+--------------------------------------*/
+$('.school-tour-gallery').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    gallery: {
+        enabled: true
+    }
+});
+
+/*------------------------------------
+	Pearson Slider
+--------------------------------------*/
+$('.pearson-slider').owlCarousel({
+    loop: true,
+    autoplay: true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true,
+    items: 2,
+    margin: 30,
+    nav: false,
+    dots: false,
+    responsive: {
+        0: {
+            items: 2
+        },
+        768: {
+            items: 2
+        },
+        1000: {
+            items: 2
+        }
+    }
+});
     
     
 })(jQuery); 

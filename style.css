@@ -2341,7 +2341,7 @@ span.comment-time {padding-right: 3px; position: relative;}
     margin: 0 2px;
     width: 23px;
 }
-.news-details-content .single-latest-item {margin-bottom: 17px;}
+.news-details-content .single-latest-item {margin-bottom: 17px; display:block}
 /*----------------------------------------*/
 /*  22.2 News Details Sidebar
 /*----------------------------------------*/
@@ -2957,4 +2957,18 @@ span.c-text {display: inline-block;}
     border: 0;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
+}
+
+/*------------------------------------
+	Pearson Slider
+--------------------------------------*/
+
+.pearson-slider .pearson-item {
+    padding: 0 15px;
+}
+
+.pearson-slider .pearson-item img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
